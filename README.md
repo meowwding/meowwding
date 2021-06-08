@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @meowwding
 - 👀 I’m interested in marketing analytics
 - 🌱 I’m currently learning visualization and econometric analysis with R, MySQL (business metrics)
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... %some day I'll complete this
 - 📫 han.ding105@outlook.com
 
 <!---
